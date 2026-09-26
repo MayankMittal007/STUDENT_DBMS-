@@ -1,0 +1,56 @@
+[
+    {
+        "roll": "111",
+        "name": "fre",
+        "age": 17,
+        "branch": "CSE",
+        "semester": 2,
+        "cgpa": 3.0,
+        "phone": "1212121212",
+        "email": "randi@gmail.com",
+        "attendance": {},
+        "marks": {
+            "Python": 0,
+            "Java": 0,
+            "DBMS": 0,
+            "Operating System": 0,
+            "Computer Network": 0
+        }
+    },
+    {
+        "roll": "123",
+        "name": "sde",
+        "age": 16,
+        "branch": "FFE",
+        "semester": 3,
+        "cgpa": 4.0,
+        "phone": "1111111111",
+        "email": "ss@gmail.com",
+        "attendance": {},
+        "marks": {
+            "Python": 0,
+            "Java": 0,
+            "DBMS": 0,
+            "Operating System": 0,
+            "Computer Network": 0
+        }
+    },
+    {
+        "roll": "101",
+        "name": "goraj",
+        "age": 18,
+        "branch": "CSE",
+        "semester": 3,
+        "cgpa": 7.8,
+        "phone": "9011223344",
+        "email": "fr@gmail.com",
+        "attendance": {},
+        "marks": {
+            "Python": 0,
+            "Java": 0,
+            "DBMS": 0,
+            "Operating System": 0,
+            "Computer Network": 0
+        }
+    }
+]
